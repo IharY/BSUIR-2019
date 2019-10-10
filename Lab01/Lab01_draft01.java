@@ -11,7 +11,7 @@ public class Lab01_draft01 {
     */
 
     public static void main(String[] args) {
-        //Задание 19
+        
         for(double n = 10; n < 16; n++) {
             for(double x = 0.6; x <= 1.1; x += 0.25) {
                 double a = Math.cos(Math.PI*x/ n);
